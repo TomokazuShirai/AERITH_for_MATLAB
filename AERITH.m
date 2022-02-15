@@ -104,7 +104,6 @@ TrgtMax(:,toDelete) =[];
 % As an example, succinate production is performed.
 % exchgTbl(8): 'Succinate exchange','EX_succ_e'
 
-% for j = 1:size(exchgTbl,1)
 j = 8;
 exchgTrgt = j;
 trgt = exchgTbl.rxnRow(exchgTrgt,1);    % Target equation row number
