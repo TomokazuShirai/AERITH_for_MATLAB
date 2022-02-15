@@ -16,8 +16,6 @@ As an example, a simulation for combination of reaction deletions for succinate 
 Software
 * MATLAB 2020a (MathWorks, Inc.)
 * GNU Linear Programming Kit (GLPK, www. gnu.org/software/glpk/) 
-File
-* modelOri.mat
  
 # Author
 
